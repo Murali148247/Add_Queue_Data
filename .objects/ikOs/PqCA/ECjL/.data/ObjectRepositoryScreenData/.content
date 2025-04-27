@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="3P_QeGot2kaZh_OpHPif8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 736" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADnSURBVDhPndE9K4ZhGMfhh4gMMtos3iaDZLQri4WUkpJVXkIGslGisFgMXhIiEZPyKeQz+BaOPxmknvu5n18ddd/L2XWdV6XGFhn5+ayvN55o//4rWRf7DFDXkDHu6GGB0kNy/z3OuGKFR9qoqSM6GeeAC+ZpYYjCTmhgnQyZ45OcIqf7Vy/T7HLNLTccs0R2ksX+qZ9D3tlhintamaBqW+Sdu9kkS0ozTJKTVG2YS0bJSfLmG7ywRq5TWDPnLJN33ia7+KCPmmoiQ1Z5poMHSvU7ZJZXstjSNZJBp2QndTVIXqSgSuULa2spcN+c+TUAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='botsDNA' /&gt;" Url="https://botsdna.com/" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="3b3c2ce68a89fe37992c4e0efb9d23ab.jpg" xmlns="">0tJxWUnpD1EWhvjdv1sf0CQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome botsDNA",
+  "Type": "Screen",
+  "Id": "ECjLNyKzH0y85_CmVOL5qQ",
+  "Reference": "5VEuOfFBKUiP_Y5SVS7UBw/ECjLNyKzH0y85_CmVOL5qQ",
+  "ParentRef": "5VEuOfFBKUiP_Y5SVS7UBw/PqCAFIqlL0eRbKzX32igdQ",
+  "Created": "2025-04-09T07:24:01.4329011Z",
+  "Updated": "2025-04-09T07:24:01.4329011Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
